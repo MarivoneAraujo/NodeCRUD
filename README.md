@@ -1,4 +1,4 @@
-# Complete CRUD Application with Node, Express & MongoDB
+# Complete CRUD Application with Node, Express, MongoDB & EJS
 
 - To Run this project Clone it and install modules using
 `npm install`
